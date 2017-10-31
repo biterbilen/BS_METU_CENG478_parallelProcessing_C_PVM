@@ -1,0 +1,8 @@
+to clean executables:
+	make clean
+to make executables:
+	make all
+to make master: 
+	make master
+to make slave: 
+	make slave
